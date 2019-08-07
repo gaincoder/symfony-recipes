@@ -1,1 +1,0 @@
-<bg=blue;fg=white> Info Bundle Installation Succesful </>
