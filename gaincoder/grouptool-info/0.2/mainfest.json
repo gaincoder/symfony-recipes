@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "grouptool-info"
+    ],
+    "bundles": {
+        "InfoBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}

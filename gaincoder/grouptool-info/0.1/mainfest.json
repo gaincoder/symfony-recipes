@@ -1,0 +1,10 @@
+{
+    "aliases": [
+        "grouptool-info"
+    ],
+    "bundles": {
+        "InfoBundle": [
+            "all"
+        ]
+    }
+}
