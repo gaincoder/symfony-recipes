@@ -3,5 +3,8 @@
         "InfoBundle": [
             "all"
         ]
+    },
+    "composer-scripts": {
+        "cache:clear": "symfony-cmd"
     }
 }
